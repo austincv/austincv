@@ -8,4 +8,4 @@ The last few years, I have been working at Hummingbird Technologies to develop t
 I have been learning [Flutter](https://flutter.dev/) for fun recently and what better way to learn something than to build something with it.
 So, I made a [peg solitaire](https://github.com/austincv/peg-solitaire) game. If you fancy a game click [here](https://www.austincv.com/peg-solitaire) 
 
-![demo gif](https://github.com/austincv/peg-solitaire/blob/main/docs/gifs/peg_solitaire.gif)
+![demo gif](https://github.com/austincv/peg-solitaire/blob/main/readme/peg_solitaire.gif)
